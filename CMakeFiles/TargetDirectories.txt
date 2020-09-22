@@ -1,0 +1,3 @@
+/home/pi/myshare/zo7/CMakeFiles/rebuild_cache.dir
+/home/pi/myshare/zo7/CMakeFiles/edit_cache.dir
+/home/pi/myshare/zo7/CMakeFiles/ResultColorTest.dir
